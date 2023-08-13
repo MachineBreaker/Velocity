@@ -4,7 +4,7 @@
 [![Join our Discord](https://img.shields.io/discord/289587909051416579.svg?logo=discord&label=)](https://discord.gg/papermc)
 
 A Minecraft server proxy with unparalleled server support, scalability,
-and flexibility.
+and flexibility with antibot.
 
 Velocity is licensed under the GPLv3 license.
 
